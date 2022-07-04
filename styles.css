@@ -1,0 +1,18 @@
+.h3 {
+    color: darkred;
+}
+
+#sold-tvs {
+    color: green;
+    font-size: 23px;
+}
+
+#bought-tvs {
+    color: blue;
+    font-size: 23px;
+}
+
+#tobsold {
+    color: red;
+    font-size: 23px;
+}
